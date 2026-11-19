@@ -1,0 +1,19 @@
+# Secrets and sessions: never commit these
+.env
+.env.*
+auth_info_baileys/
+.claude-whatsapp-session*
+
+# Dependencies
+node_modules/
+.venv/
+__pycache__/
+*.pyc
+
+# Runtime files written by start.sh (pids and logs)
+.run/
+
+# Local media, not part of the project
+output/
+
+.DS_Store
