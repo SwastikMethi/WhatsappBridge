@@ -7,6 +7,12 @@ You:      !pc list the PDFs in my Downloads folder
 Laptop:   [Laptop] I found 3 PDFs: ...
 ```
 
+## Demo
+
+[![WhatsappBridge demo: a message travels from the phone to Claude Code and back](docs/demo.png)](docs/demo.mp4)
+
+Click the image to watch the 41-second walkthrough.
+
 ## How it works
 
 ```
